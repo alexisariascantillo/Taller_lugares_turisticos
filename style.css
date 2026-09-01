@@ -24,17 +24,12 @@ line-height: 1.5;
 }
 
 img {
-
-width: 400px;
-
-height: 250px;
-
-object-fit: cover;
-
-margin-bottom: 20px;
-border-radius: 8px;
-
+    width: 400px;
+    height: 250px;
+    object-fit: cover;
+    margin-bottom: 30px;
 }
+
 
 .descripcion {
     text-align: center;
